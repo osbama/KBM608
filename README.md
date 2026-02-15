@@ -49,7 +49,8 @@ This is a hands-on course where you will learn by doing. Through a series of Jup
 > mental health and degradation consequences.
 
 
-## Slides
+## Theory
+* Theory 1 <a target="_blank" href="https://colab.research.google.com/github/osbama/KBM608/blob/main/theory/theory1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Hands On Sessions
 * Hands-on 1<a target="_blank" href="https://colab.research.google.com/github/osbama/KBM608/blob/main/hands-on/hands_on-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
