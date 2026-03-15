@@ -1,6 +1,6 @@
 import cudaq
-from aux_files.krylov.qchem.uccsd import get_uccsd_op, uccsd_circuit
-from aux_files.krylov.qchem.uccsd import uccsd_circuit_double, uccsd_circuit_single
+from aux_files.uccsd import get_uccsd_op, uccsd_circuit
+from aux_files.uccsd import uccsd_circuit_double, uccsd_circuit_single
 
 import numpy as np
 from scipy.optimize import minimize

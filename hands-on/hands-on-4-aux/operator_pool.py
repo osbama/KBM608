@@ -1,5 +1,5 @@
 from cudaq import spin
-from aux_files.krylov.qchem.uccsd import uccsd_get_excitation_list, add_single_excitation, add_double_excitation
+from aux_files.uccsd import uccsd_get_excitation_list, add_single_excitation, add_double_excitation
 import numpy as np
 
 
